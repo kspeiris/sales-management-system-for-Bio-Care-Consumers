@@ -4,7 +4,7 @@
 
 ![hero](screenshots/hero.png)
 
-**A powerful, offline-first desktop application for managing field sales operations — built with Electron, React, and SQLite.**
+**A powerful, offline-first desktop application for managing field sales operations - built with Electron, React, and SQLite.**
 
 [![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com)
 [![Electron](https://img.shields.io/badge/Electron-25.x-47848F?logo=electron)](https://electronjs.org)
