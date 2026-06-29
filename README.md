@@ -58,6 +58,10 @@ It operates **fully offline** using a local SQLite database and is distributed a
 
 The application follows a clean **three-process Electron architecture**:
 
+![image](architecture/Architecture_diagram.png)
+---
+![image](architecture/Work_flow_diagram.png)
+---
 ```mermaid
 flowchart TB
 
