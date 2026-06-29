@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🏪 Bio Care Consumers - Desktop Sales Management System
 
@@ -13,7 +13,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss)](https://tailwindcss.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows)](https://microsoft.com)
 
-</div>
+
 
 ---
 
